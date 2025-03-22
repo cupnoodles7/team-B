@@ -38,7 +38,8 @@ This app uses WeatherAPI.com. To configure the API:
 - Background changes dynamically to match the weather condition.
 
 ## Screenshots
-![Weather App UI](https://via.placeholder.com/800x400)
+![image](https://github.com/user-attachments/assets/356db110-8d75-4f7a-a20d-cd613c49bd18)
+
 
 ## Roadmap
 - [ ] Add support for weekly forecasts
